@@ -1,11 +1,9 @@
-# flight-delay-prediction
-UT Austin MSBA Project
+# flight-delay-prediction - UT Austin MSBA Project
 
 This project builds a large-scale, machine-learning–ready dataset for predicting U.S. domestic flight delays by integrating:
 
-U.S. DOT / BTS On-Time Performance data (flight characteristics & delays)
-
-NOAA Global Hourly (METAR/ISD) weather observations (airport-level weather conditions)
+      - U.S. DOT / BTS On-Time Performance data (flight characteristics & delays)
+      - NOAA Global Hourly (METAR/ISD) weather observations (airport-level weather conditions)
 
 Our goal is to create a unified, clean dataset suitable for exploratory analysis, modeling, and concept-drift evaluation before and after COVID-19.
 
